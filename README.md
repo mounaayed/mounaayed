@@ -3,9 +3,10 @@
   <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Student, Developer !!
-- 🔭 I’m currently working on my MEAN stack project.
-- 🌱 I’m currently learning Angular , Nodejs and Python
+## I'm a Software Enginner, Developer !!
+- 🔭  As a BackEnd Developer I carry out manipulation 
+in BD, development in the CRM btp application .
+- 🌱 I’m currently learning Nest js, Next js and Python
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 4 languages ( English, Deutsch, Arabic, French)
